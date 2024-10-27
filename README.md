@@ -1,6 +1,6 @@
 # Leetcode
 
-##Here I will be sharing exercises from Leetcode in mainly two code languages:
+Here I will be sharing exercises from Leetcode in mainly two code languages:
 1. Python
 2. C#
 
